@@ -28,5 +28,4 @@ This project automates the login process for the sample site:
 ## 📸 Screenshot Output
 
 The script saves a screenshot of the post-login result as:
-```bash
-heroku_login_result.png
+`![Login Automation Screenshot](https://raw.githubusercontent.com/billiondollarjones/automated-login-selenium/main/heroku_login_result.png)
